@@ -7,4 +7,4 @@ Zeno allows you to code in only the script tag making your program easier and fa
 
 # Credits
 
-A big thanks to github user @quantum9innovation for giving me the idea to code something like Jquery but easier.
+A big thanks to github user [@quantum9innovation](github.com/quantum9innovation) for giving me the idea to code something like Jquery but easier.

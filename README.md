@@ -1,4 +1,4 @@
-#Proton
+# Proton
 A JS library allowing you to code all in the script tag and make everything easier.
 
 ## Why Proton

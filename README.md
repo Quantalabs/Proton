@@ -2,8 +2,7 @@
 A JS library allowing you to code all in the script tag and make everything easier.
 
 ## Why Proton
-
-Zeno allows you to code in only the script tag making your program easier and faster to code. Not only that, but it allows you to do things such as adding event listners and use CSS in the script tag and also makes it much easier.
+Proton allows you to code in only the script tag making your program easier and faster to code. Not only that, but it allows you to do things such as adding event listners and use CSS in the script tag and also makes it much easier.
 
 # Credits
 

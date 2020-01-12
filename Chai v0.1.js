@@ -8,8 +8,7 @@ var create = function (element,text,src,id,name) {
 };
 var style = function (PrpName, PrpValue, Id) {
   var b = document.getElementById(id);
-  b.style.fontFamily = font;
-  b.style.color = color;
+  b.style.PrpName = PrpValue;
 };
 var addText = function (text, id) {
   var c = document.getElementById(id);
